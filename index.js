@@ -1,6 +1,6 @@
 
 import React from 'react'
-import PT from 'react-proptypes'
+import PT from 'prop-types'
 
 /**
  * This function is best used as a decorator, and it makes a component "teleportable".
